@@ -1,3 +1,0 @@
-read.csv <- ("EPC.csv", nrows=100)
-epc <- read.csv("EPC.csv", nrows=100)
-head(epc)
